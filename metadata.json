@@ -1,0 +1,6 @@
+{
+  "name": "Minds English School - Gramática & Quizzes",
+  "description": "Plataforma de estudos de gramática inglesa com explicações simplificadas para alunos A1 e quizzes interativos de 10 tópicos essenciais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

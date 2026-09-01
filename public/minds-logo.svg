@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 250" width="100%" height="100%">
+  <defs>
+    <style>
+      .minds-navy { fill: #001940; }
+      .minds-red { fill: #FB1504; }
+      .subtext { font-family: 'Liberation Sans', 'Segoe UI', Arial, sans-serif; font-size: 30px; font-weight: 700; letter-spacing: 0.16em; }
+    </style>
+  </defs>
+
+  <g transform="translate(15, 10)">
+    <!-- "m" -->
+    <path class="minds-navy" d="
+      M 25 152
+      L 47 152
+      L 47 98
+      C 47 84, 56 75, 71 75
+      C 84 75, 93 83, 95 96
+      C 100 83, 111 75, 126 75
+      C 143 75, 153 86, 153 103
+      L 153 152
+      L 131 152
+      L 131 106
+      C 131 97, 125 92, 116 92
+      C 107 92, 101 98, 101 108
+      L 101 152
+      L 79 152
+      L 79 106
+      C 79 97, 73 92, 64 92
+      C 55 92, 47 98, 47 108
+      L 47 152
+      L 25 152 Z
+    " />
+
+    <!-- "i" - Iconic Minds Red Symbol (Top Cap + Circular Void + Stem with Concave Top) -->
+    <!-- Top Cap: starts at top, bottom has concave circular arc -->
+    <path class="minds-red" d="
+      M 174 26
+      C 174 16, 214 16, 214 26
+      L 214 48
+      C 204 43, 184 43, 174 48
+      Z
+    " />
+    
+    <!-- Stem: top has concave arc matching the circular cutout, straight sides down to baseline -->
+    <path class="minds-red" d="
+      M 174 80
+      C 184 85, 204 85, 214 80
+      L 214 152
+      L 174 152
+      Z
+    " />
+
+    <!-- "n" -->
+    <path class="minds-navy" d="
+      M 228 152
+      L 250 152
+      L 250 105
+      C 250 96, 258 91, 269 91
+      C 280 91, 287 97, 287 107
+      L 287 152
+      L 309 152
+      L 309 102
+      C 309 84, 297 75, 280 75
+      C 267 75, 255 83, 250 96
+      L 250 78
+      L 228 78
+      Z
+    " />
+
+    <!-- "d" -->
+    <path class="minds-navy" d="
+      M 378 19
+      L 356 19
+      L 356 83
+      C 350 77, 340 75, 329 75
+      C 302 75, 284 94, 284 116
+      C 284 138, 302 155, 329 155
+      C 341 155, 350 151, 356 144
+      L 356 152
+      L 378 152
+      Z
+      M 356 115
+      C 356 128, 347 137, 333 137
+      C 319 137, 308 127, 308 115
+      C 308 103, 319 93, 333 93
+      C 347 93, 356 102, 356 115 Z
+    " />
+
+    <!-- "s" -->
+    <path class="minds-navy" d="
+      M 436 94
+      C 431 82, 419 75, 404 75
+      C 388 75, 377 84, 377 96
+      C 377 107, 386 113, 401 116
+      L 413 118
+      C 424 120, 428 124, 428 130
+      C 428 138, 419 143, 407 143
+      C 394 143, 384 136, 381 125
+      L 360 130
+      C 365 145, 382 157, 406 157
+      C 429 157, 449 146, 449 130
+      C 449 116, 439 109, 422 106
+      L 410 104
+      C 400 102, 397 99, 397 94
+      C 397 88, 404 84, 412 84
+      C 420 84, 427 88, 430 95
+      Z
+    " />
+
+    <!-- "ENGLISH SCHOOL" -->
+    <text x="25" y="202" class="minds-red subtext" textLength="425" lengthAdjust="spacingAndGlyphs">ENGLISH SCHOOL</text>
+  </g>
+</svg>
